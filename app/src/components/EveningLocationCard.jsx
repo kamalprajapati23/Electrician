@@ -27,7 +27,7 @@ function EveningLocationCard() {
 
   return (
     <div className="container my-4">
-      <div className="card shadow p-4 bg-light mx-auto" style={{ maxWidth: "500px" }}>
+      <div className="card shadow p-4 bg-light mx-auto" style={{ maxWidth: "700px" }}>
         {/* Title */}
         <h5 className="fw-bold text-primary text-center">🌙 Evening Live Location</h5>
         <p className="text-muted text-center">After Duty (Evening)</p>

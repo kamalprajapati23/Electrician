@@ -27,7 +27,7 @@ function MorningLocationCard() {
 
   return (
     <div className="container my-4 ">
-      <div className="card shadow-sm p-4 bg-light mx-auto" style={{ maxWidth: "500px" }}>
+      <div className="card shadow-sm p-4 bg-light mx-auto" style={{ maxWidth: "700px" }}>
         {/* Title */}
         <h5 className="fw-bold text-success text-center">🌞 Morning Live Location</h5>
         <p className="text-muted text-center">Before 09:00 AM</p>

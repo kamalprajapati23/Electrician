@@ -34,7 +34,7 @@ function DPRForm() {
 
   return (
     <div className="container my-4">
-      <div className="card shadow h-100 p-4 bg-light mx-auto" style={{ maxWidth: "500px" }}>
+      <div className="card shadow h-100 p-4 bg-light mx-auto" style={{ maxWidth: "700px" }}>
         <h5 className="fw-bold text-primary text-center">📄 DPR</h5>
         <p className="text-muted text-center mb-3">DPR = Daily Progress Report</p>
 

@@ -15,7 +15,7 @@ function Footer() {
         <div className="row text-center text-md-start">
           {/* Company Info */}
           <div className="col-md-4 mb-4">
-            <h5 className="text-warning fw-bold">🔌 H&K Electricals</h5>
+            <h5 className="text-warning fw-bold">🔌 H&K Electricals Engineers</h5>
             <p>
               We provide reliable and safe electrical solutions for homes,
               industries, and government projects. 15+ years of experience in

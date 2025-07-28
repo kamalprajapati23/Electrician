@@ -23,7 +23,7 @@ function AttendanceManager() {
   };
 
   return (
-    <div className="card shadow h-100 p-4 bg-light mx-auto" style={{ maxWidth: "500px" }}>
+    <div className="card shadow h-100 p-4 bg-light mx-auto" style={{ maxWidth: "700px" }}>
       <h6 className="text-center fw-bold text-success mb-2">📋 Worker Attendance</h6>
 
       <div className="text-center mb-2">

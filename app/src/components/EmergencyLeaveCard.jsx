@@ -36,7 +36,7 @@ function EmergencyLeaveCard() {
     <div className="container my-4">
       <div
         className="card shadow h-100 p-4 bg-light  mx-auto"
-        style={{ maxWidth: "500px" }}
+        style={{ maxWidth: "700px" }}
       >
         <h5 className="fw-bold text-danger text-center">🚨 Emergency Leave</h5>
         <p className="text-muted text-center mb-3">Achanak tabiyat kharab ho ya jaruri kaam ho</p>

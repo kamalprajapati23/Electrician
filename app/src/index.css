@@ -116,6 +116,15 @@ table th {
 select {
   font-size: 0.8rem !important;
 }
+/* src/components/Slider.css */
+.custom-slide-img {
+  height: 300px;         /* 👈 Reduce from 400px to 300px */
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+
 
 
 
